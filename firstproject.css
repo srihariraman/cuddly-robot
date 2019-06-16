@@ -1,0 +1,35 @@
+#mainheader {
+    background-color: beige;
+    text-align: center;
+    font-family: fantasy
+}
+.Section {
+    padding: 150px 50px 100px;
+    background-color: lightsalmon;
+    box-sizing: border-box
+}
+.dividers {
+background-color: beige;
+padding: 150px 150px 150px;
+}
+
+
+#testedbutton {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-color: navy;
+    border-style: double;
+    border-width: 3px;
+    padding-left: 70px;
+    padding-right: 70px;
+    background-color: black;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    align-content: center;
+}
+
+#testedbutton:hover {
+    background-color: pink;
+    color: black
+}
